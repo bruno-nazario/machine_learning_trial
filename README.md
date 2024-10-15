@@ -1,1 +1,3 @@
-# google_analytics_capstone
+# Machine Learning Trial 
+
+Just some random machine learning tests. 
